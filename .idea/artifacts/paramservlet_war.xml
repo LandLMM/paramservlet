@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="paramservlet:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="paramservlet.war">
+      <element id="artifact" artifact-name="paramservlet:war exploded" />
+    </root>
+  </artifact>
+</component>
